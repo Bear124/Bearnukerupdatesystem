@@ -11,7 +11,7 @@
 * ` Fixed a big bug with the token grabber creator`
 
 ### 2022-02-10, v1.4.4
-* ` test`
+* ` testsadasd`
 
 ### 2022-02-07, v1.4.3
 * ` Checks if the token is phone locked now`
